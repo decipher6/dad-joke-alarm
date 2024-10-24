@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input[type="time"] {
+  font-size: 1.2rem;
+  padding: 10px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#dad-joke {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: darkred;
+}
