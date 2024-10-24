@@ -17,8 +17,8 @@ This app solves the problem of creating a dynamic and interactive alarm system w
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-repository/alarm-clock-app.git
-cd alarm-clock-app
+git clone https://github.com/decipher6/dad-joke-alarm.git
+cd dad-joke-alarm
 ```
 
 ### 2. Install Dependencies
@@ -31,8 +31,7 @@ npm install
 ### 3. Obtain API Keys
 To fetch live weather data, you'll need an API key from OpenWeather.
 
-Sign up and generate your API key.
-Replace the placeholder "YOUR_API_KEY" in the AlarmClock.js file with your OpenWeather API key.
+API key is uploaded on Lytspace. Add the api key on specified line in src/components/alarmclock.js
 
 ### 4. Run the Project
 To start the development server, run:
