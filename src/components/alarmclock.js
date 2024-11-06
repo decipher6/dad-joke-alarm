@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import '/Users/yaghyesh/coolapp/src/AlarmClock.css';
+import './AlarmClock.css';
 
 const AlarmClock = () => {
   const [currentTime, setCurrentTime] = useState(new Date());
